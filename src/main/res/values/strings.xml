@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App5</string>
+    <string-array name="elementos">
+        <item>Opcion 1</item>
+        <item>Opcion 2</item>
+        <item>Opcion 3</item>
+        <item>Opcion 4</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
